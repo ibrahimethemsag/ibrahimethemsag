@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-```swift
-let name = "Ibrahim"
+```java
+final String name = "Ibrahim";
 
-let developer = "iOS Developer"
+final String developer = "iOS Developer";
 
-let username = ["iethemsag", "ibrahimethemsag", ".codeline"]
+var username = ["iethemsag", "ibrahimethemsag", ".codeline"];
 
-var languages = ["HTML", "CSS", "JavaScript", "Python", "C++", "Java", "Swift"]
+var languages = ["HTML", "CSS", "JavaScript", "Python", "C++", "Java", "Swift"];
 
-var bio = "Programming, reading books, focusing iOS section"
+var bio = "Programming, reading books, focusing iOS section";
 
 var hi = "Hi All";
 
-print(hi)
+System.out.println(hi);
 ```
