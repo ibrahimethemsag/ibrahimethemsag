@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-```java
-final String name = "Ibrahim";
+```swift
+let String name = "Ibrahim";
 
-final String developer = "Java Developer";
+let String developer = "iOS Developer";
 
 var username = ["iethemsag", "ibrahimethemsag", ".codeline"];
 
@@ -13,5 +13,5 @@ var bio = "Programming, reading books, focusing iOS section";
 
 var hi = "Hi All";
 
-System.out.println(hi);
+print(hi);
 ```
