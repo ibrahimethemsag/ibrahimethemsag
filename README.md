@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ```swift
-let String name = "Ibrahim";
+let name = "Ibrahim";
 
-let String developer = "iOS Developer";
+let developer = "iOS Developer";
 
 var username = ["iethemsag", "ibrahimethemsag", ".codeline"];
 
