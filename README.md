@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-```swift
-let name = "Ibrahim";
+```javascript
+const name = "Ibrahim";
 
-let developer = "iOS Developer";
+const developer = "FrontEnd Developer";
 
-var username = ["iethemsag", "ibrahimethemsag", ".codeline"];
+let username = ["iethemsag", "ibrahimethemsag", ".codeline"];
 
-var languages = ["HTML", "CSS", "JavaScript", "Python", "C++", "Java", "Swift"];
+let languages = ["HTML", "CSS", "JavaScript", "Python", "C++", "Java", "Swift"];
 
-var bio = "Programming, reading books, focusing iOS section";
+let bio = "Programming, reading books, focusing FrontEnd section";
 
-var hi = "Hi All";
+let hi = "Hi All";
 
-print(hi);
+console.log(hi);
 ```
